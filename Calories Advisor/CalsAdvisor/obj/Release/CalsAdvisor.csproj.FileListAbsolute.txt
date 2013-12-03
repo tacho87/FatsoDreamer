@@ -1,0 +1,47 @@
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\bin\Release\CalsAdvisor.exe
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\bin\Release\CalsAdvisor.pdb
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\bin\Release\ForPeople\CalsAdvisor.exe.config
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\bin\Release\ForPeople\CalsAdvisor.exe
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\bin\Release\ForPeople\CalsAdvisor.pdb
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.exe.config
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.exe
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.pdb
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\obj\Release\CalsAdvisor.CalsAdvisorForm.resources
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\obj\Release\CalsAdvisor.Properties.Resources.resources
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\obj\Release\CalorieAdvisor.exe
+C:\Users\Tacho\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\obj\Release\CalorieAdvisor.pdb
+F:\ALL MY FILES DESKTOP BEFORE SANDY BRIDGE\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.exe.config
+F:\ALL MY FILES DESKTOP BEFORE SANDY BRIDGE\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\obj\Release\CalorieAdvisor.exe
+F:\ALL MY FILES DESKTOP BEFORE SANDY BRIDGE\Documents\Visual Studio 2010\Projects\C#\CalsAdvisor\CalsAdvisor\obj\Release\CalorieAdvisor.pdb
+C:\Users\Tacho\Dropbox\MySoftware\c#\CalsAdvisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.exe.config
+C:\Users\Tacho\Dropbox\MySoftware\c#\CalsAdvisor\CalsAdvisor\obj\Release\CalorieAdvisor.exe
+C:\Users\Tacho\Dropbox\MySoftware\c#\CalsAdvisor\CalsAdvisor\obj\Release\CalorieAdvisor.pdb
+C:\Users\Tacho\Dropbox\MySoftware\c#\CalsAdvisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.exe
+C:\Users\Tacho\Dropbox\MySoftware\c#\CalsAdvisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.pdb
+C:\Users\Tacho\Dropbox\MySoftware\c#\CalsAdvisor\CalsAdvisor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tacho\Dropbox\MySoftware\c#\CalsAdvisor\CalsAdvisor\obj\Release\CalsAdvisor.CalsAdvisorForm.resources
+C:\Users\Tacho\Dropbox\MySoftware\c#\CalsAdvisor\CalsAdvisor\obj\Release\CalsAdvisor.Properties.Resources.resources
+C:\Users\Tacho\Dropbox\MySoftware\c#\CalsAdvisor\CalsAdvisor\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Tacho\Dropbox\MySoftware\c#\CalsAdvisor\CalsAdvisor\obj\Release\GenerateResource.write.1.tlog
+C:\Users\tacho\Desktop\Calories Advisor gold\CalsAdvisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.exe.config
+C:\Users\tacho\Desktop\Calories Advisor gold\CalsAdvisor\CalsAdvisor\obj\Release\CalorieAdvisor.exe
+C:\Users\tacho\Desktop\Calories Advisor gold\CalsAdvisor\CalsAdvisor\obj\Release\CalorieAdvisor.pdb
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.exe.config
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.exe.manifest
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.application
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.XML
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.exe
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.pdb
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.exe.CodeAnalysisLog.xml
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\bin\Release\CaloriesAdvisor\CalorieAdvisor.exe.lastcodeanalysissucceeded
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\obj\Release\CalsAdvisor.CalsAdvisorForm.resources
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\obj\Release\CalsAdvisor.Properties.Resources.resources
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\obj\Release\CalsAdvisor.csproj.GenerateResource.Cache
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\obj\Release\CalorieAdvisor.TrustInfo.xml
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\obj\Release\CalorieAdvisor.exe.manifest
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\obj\Release\CalorieAdvisor.application
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\obj\Release\CalorieAdvisor.exe
+C:\Users\tacho\Desktop\Calories Advisor gold\Calories Advisor\CalsAdvisor\obj\Release\CalorieAdvisor.pdb

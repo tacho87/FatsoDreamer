@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CalorieAdvisor.exe" version="0.2.0.2" publicKeyToken="d016c8d5a166acd0" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="PerfCenterCpl.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CalorieAdvisor" version="0.1.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="CalorieAdvisor.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CalorieAdvisor.exe" size="485376">
+      <assemblyIdentity name="CalorieAdvisor" version="0.1.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nu8Tk1oh/i6rrx+WoWMyghKotyjv9p1grKAORO/wWyQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CalorieAdvisor.exe.config" size="193">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JzPedwqH+injXos1gfv8t6xJR5YsnJ+nwYrHxMJl/1w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PerfCenterCpl.ico" size="116288">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OpRMu5x7QGLUEG1hAbVNMmXJacarf3AHEcYMEdKsGUY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=TACHODEVLAPTOP\tacho" issuerKeyHash="c5133729097102c81141b87aea715bd23c11f637" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>fVYr94eZmJsIHhmTvhadt7xACUIyJXwS4oQEHPAxofY=</DigestValue></Reference></SignedInfo><SignatureValue>ZaAMwPl/1tc5t7VuVbfPJLisbwYuiZTOsGkjwuXuFi+0BShcDlj2pRu7YCSO9TVAOQSB7lgXee44GD6AqBn0ZYWOTsWD1M+C4tHhNOMiOH8CfIUcjTSSoIJmrMPiSvjMkaDnRGO+16Qx0XbiTWhn1PNEKbZIYRwHH5MD1EWaBf4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0L8CQnvn8esafDUpOoIABR+t5Gfols8Vz2uGRHdJ84CHCLNqaMsdjLUWVB8PUgqjjpM24g+LrpIJSEiHgo2onobzjs2VQAzsZoa4w3wAD/LuPZ3CD7hElnizi0rd+xUooy0hgGpUJDySbJS27rYEng8bXUqQskcEl7vn9vm8YU0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f6a131f01c0484e2127c2532420940bcb79d16be93191e089b989987f72b567d" Description="" Url=""><as:assemblyIdentity name="CalorieAdvisor.exe" version="0.2.0.2" publicKeyToken="d016c8d5a166acd0" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=TACHODEVLAPTOP\tacho</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/VVyIHRW8wzSUJDDEWQMUV1anqltlqhFF7DrEykDlSo=</DigestValue></Reference></SignedInfo><SignatureValue>DhwtD2PFzwqn3S42Q1b+EPA13dpTKOFQoihCAzfevAMMnnUmv+UbuGHf7+qVHEU9NtvX0dxJDdLTjU9EEZGCPUhS4Kf8bUGkJwyRxglOVt7SQUYd/sz3QcT/xuv+WN68Jdge17G0CK1KB2cRkPibugZZ6VW97C1S/j8S3SyZQCQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0L8CQnvn8esafDUpOoIABR+t5Gfols8Vz2uGRHdJ84CHCLNqaMsdjLUWVB8PUgqjjpM24g+LrpIJSEiHgo2onobzjs2VQAzsZoa4w3wAD/LuPZ3CD7hElnizi0rd+xUooy0hgGpUJDySbJS27rYEng8bXUqQskcEl7vn9vm8YU0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQEjBBsv8UU5VHxKy9BRNpJzANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigAVABBAEMASABPAEQARQBWAEwAQQBQAFQATwBQAFwAdABhAGMAaABvMB4XDTEzMTIwMzAwMjkxNloXDTE0MTIwMzA2MjkxNlowMzExMC8GA1UEAx4oAFQAQQBDAEgATwBEAEUAVgBMAEEAUABUAE8AUABcAHQAYQBjAGgAbzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA0L8CQnvn8esafDUpOoIABR+t5Gfols8Vz2uGRHdJ84CHCLNqaMsdjLUWVB8PUgqjjpM24g+LrpIJSEiHgo2onobzjs2VQAzsZoa4w3wAD/LuPZ3CD7hElnizi0rd+xUooy0hgGpUJDySbJS27rYEng8bXUqQskcEl7vn9vm8YU0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQAOZSFJe5wYY7YlvUydNJ+i6FnWY0eCC+MogHOfAmpWaCFloYNW8Nkf/+fGhjzhpX7jAStCk58Mq7CKspTFfXGYdA5ZRWMZyekCtaJXIgQcmr2m6/z4jZ/w/sHNUEzN/S3tA+kHJoPQJIQmNQ3gVZl6+43BovDMgzUB9Xxy5GnwJA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
